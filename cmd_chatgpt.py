@@ -22,6 +22,6 @@ def execute_cmd_command(command):
         print(ex)
 
 command_description = input("Type the command description: ")
-command = generate_cmd_command(command_description)
-print(f"Command generated: {command}")
-execute_cmd_command(command)
+command_generated = generate_cmd_command(command_description)
+print(f"Command generated: {command_generated}")
+execute_cmd_command(command_generated)
