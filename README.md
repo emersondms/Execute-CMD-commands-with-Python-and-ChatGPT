@@ -7,5 +7,5 @@ Execute CMD commands with Python and ChatGPT
     - pip install openai
 
 ## Example of usage:
-    - Type the command description: 
+    Type the command description: 
     Create on desktop a text file named 'test' with the text 'Python and ChatGPT'
